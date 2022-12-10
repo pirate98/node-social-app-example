@@ -58,7 +58,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/furttado/node-socialNetwork-MVP
+git clone https://github.com/pirate98/node-socialNetwork-MVP
 
 # Go into the repository
 $ cd node-socialNetwork-MVP
